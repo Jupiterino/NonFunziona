@@ -1,0 +1,13 @@
+<alunni>
+    <alunno>
+        <nome>Giovanni</nome>
+        <cognome>Moscardini</cognome>
+        <dataNascita>25/02/2005</dataNascita>
+    </alunno>
+
+    <alunno>
+        <nome>Pippo</nome>
+        <cognome>Franco</cognome>
+        <dataNascita>30/02/2005</dataNascita>
+    </alunno>
+</alunni>
